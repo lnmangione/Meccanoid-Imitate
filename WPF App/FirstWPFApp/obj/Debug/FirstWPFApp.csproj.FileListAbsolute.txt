@@ -1,0 +1,16 @@
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\bin\Debug\FirstWPFApp.exe.config
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\bin\Debug\FirstWPFApp.exe
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\bin\Debug\FirstWPFApp.pdb
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\bin\Debug\Microsoft.Kinect.dll
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\bin\Debug\Microsoft.Kinect.xml
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\obj\Debug\FirstWPFApp.csprojResolveAssemblyReference.cache
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\obj\Debug\MainWindow.g.cs
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\obj\Debug\App.g.cs
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\obj\Debug\FirstWPFApp_MarkupCompile.cache
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\obj\Debug\FirstWPFApp_MarkupCompile.lref
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\obj\Debug\MainWindow.baml
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\obj\Debug\FirstWPFApp.g.resources
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\obj\Debug\FirstWPFApp.Properties.Resources.resources
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\obj\Debug\FirstWPFApp.csproj.GenerateResource.Cache
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\obj\Debug\FirstWPFApp.exe
+c:\users\luigi\documents\visual studio 2015\Projects\FirstWPFApp\FirstWPFApp\obj\Debug\FirstWPFApp.pdb
