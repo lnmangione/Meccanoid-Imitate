@@ -1,6 +1,4 @@
-# Programming the Meccanoid using the
-
-# Arduino, Kinect SDK, and Visual Studio
+# Programming the Meccanoid using the Arduino, Kinect SDK, and Visual Studio
 
 ## Quick Intro
 
@@ -26,6 +24,7 @@ Note: If you are using the Kinect for Windows v2 or Kinect for Xbox One you MUST
 2+. Additionally, the Kinect SDK 2+ only supports Windows 8+.
 
 Download SDK 1.8: ​https://www.microsoft.com/en-us/download/details.aspx?id=
+
 Download SDK 2.0: ​https://www.microsoft.com/en-us/download/details.aspx?id=
 
 ## Step 2: Install Microsoft Visual Studio
@@ -52,6 +51,7 @@ https://learnxinyminutes.com/docs/csharp/
 
 This tutorial goes through the process of creating a basic WPF application with Kinect functionality:
 [http://www.egr.msu.edu/classes/ece480/capstone/spring15/group02/assets/docs/dzappnote.pdf](http://www.egr.msu.edu/classes/ece480/capstone/spring15/group02/assets/docs/dzappnote.pdf)
+
 Note that “reader” must be declared as a “DepthFrameReader” not a “MultiSourceFrameReader.”
 
 ### Step 5: Advanced Use of the Kinect SDK
@@ -91,7 +91,8 @@ The Meccanoid Open Source Programming page (the page from Step 1 with the Arduin
 an example project. Download it. The “Claw_Bot.ino” file provides a great example of how to use the library.
 
 For further information on using the Arduino with the Meccanoid, see this post on the Arduino forum:
-https://forum.arduino.cc/index.php?topic=368782. 0
+https://forum.arduino.cc/index.php?topic=368782.0
+
 It’s not much, but it’s just about the only information out there.
 
 ## Communicating between Arduino and Visual Studio
@@ -102,6 +103,7 @@ This tutorial goes through the process of setting up a WPF application for basic
 Arduino IDE:
 [http://www.c-sharpcorner.com/UploadFile/e46423/arduino-control-using-a-windows-presentation-foundation-​(](http://www.c-sharpcorner.com/UploadFile/e46423/arduino-control-using-a-windows-presentation-foundation-​()
 wpf/
+
 You can skip the part about using an on/off switch within VS, and just pre-program the WPF application to
 send either ‘0’ or ‘1’.
 
