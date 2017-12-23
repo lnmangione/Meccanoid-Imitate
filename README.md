@@ -14,7 +14,7 @@ we made this. Note, this guide ​ **requires a device running Windows.**
 
 ## Using the Kinect Software
 
-## Step 1: Install the Kinect SDK
+### Step 1: Install the Kinect SDK
 
 The version of the Kinect for Windows SDK that you install will depend on your computer’s operating system
 and the type of Kinect sensor you are using. You should download the most recent (viable) version of the
@@ -27,7 +27,7 @@ Download SDK 1.8: ​https://www.microsoft.com/en-us/download/details.aspx?id=
 
 Download SDK 2.0: ​https://www.microsoft.com/en-us/download/details.aspx?id=
 
-## Step 2: Install Microsoft Visual Studio
+### Step 2: Install Microsoft Visual Studio
 
 This is the IDE you will need to utilize the Kinect Software. You can download Visual Studio Community 2015
 here: ​https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx​.
