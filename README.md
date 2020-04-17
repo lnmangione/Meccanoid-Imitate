@@ -1,5 +1,11 @@
 # Programming the Meccanoid using the Arduino, Kinect SDK, and Visual Studio
 
+<p align="center">
+  <img src="https://github.com/lnmangione/meccanoid-imitate/blob/master/gifs/neck_right.gif">
+  <img src="https://github.com/lnmangione/meccanoid-imitate/blob/master/gifs/arm_left.gif">
+  <img src="https://github.com/lnmangione/meccanoid-imitate/blob/master/gifs/neck_and_arm.gif">
+</p>
+
 ## Quick Intro
 
 This guide outlines the process of interfacing the Meccanoid robot with Microsoft Kinect. The guide can be
